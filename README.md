@@ -16,4 +16,5 @@ In this project, you will find several methods that allow users to escalate priv
 - The content is for **educational purposes** and should only be used in authorized environments.
 - Refer to the **HTML** or **PDF** file for detailed instructions on each method.
 - It is in Dutch
-**Disclaimer:** This project is intended for **educational purposes only** and should be used for learning ethical hacking, penetration testing, and cybersecurity practices. The techniques and tools discussed are meant for use in **authorized environments** or with explicit permission. Unauthorized access to systems or networks is **illegal** and against GitHub's acceptable use policy.
+  
+## **Disclaimer:** This project is intended for **educational purposes only** and should be used for learning ethical hacking, penetration testing, and cybersecurity practices. The techniques and tools discussed are meant for use in **authorized environments** or with explicit permission. Unauthorized access to systems or networks is **illegal** and against GitHub's acceptable use policy.
