@@ -1,18 +1,12 @@
 # Inside Job
 
+If you find this project helpful, please consider giving it a star. Your support is appreciated!
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-Hi! If you find this project helpful, please consider giving it a star. Your support is appreciated!
+![Inside Job](.assets/wallpaper.jpg)
 
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+## Content
 
-![Inside Job](.assets/InsideJob.jpg)
-
-## Case
-
-Megacorp, a very large company, has recently acquired several SMEs (Small and Medium-sized Enterprises). Being highly risk-averse and serious about their security posture, Megacorp is conducting multiple simultaneous security assessments.
-
-- [Inside Job](#inside-job)
   - [Case](#case)
     - [Task Overview](#task-overview)
     - [Rules of Engagement](#rules-of-engagement)
@@ -1479,3 +1473,6 @@ Now that you have administrative access to the Domain Controller, run **Mimikatz
    The output will include all user account details, including their **NTLM** password hashes, which you can use for further attacks or analysis.
 
 With all the domain hashes at your disposal, you effectively control the entire network, completing the objective of gaining full domain dominance.
+
+
+### Author: `@Ardemium`
