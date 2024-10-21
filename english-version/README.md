@@ -1,9 +1,7 @@
-# Inside Job
+#  Privilege escalation in Windows
+- If you find this project helpful, please consider giving it a star. Your support is appreciated!
 
-If you find this project helpful, please consider giving it a star. Your support is appreciated!
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
-
-![Inside Job](.assets/wallpaper.jpg)
+![Privilege escalation](.assets/wallpaper.jpg)
 
 ## Content
 
