@@ -3,6 +3,8 @@
 ## Overview
 In this project, you will find several methods that allow users to escalate privileges and gain admin rights in Windows systems. The detailed steps and techniques are provided in the accompanying **HTML** or **PDF** file included in this project.
 
+- [English Version](https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation/tree/main/english-version)
+
 ## Methods Included:
 1. **Exploiting Scheduled Tasks in the "Tasks Migrated" Folder**
 2. **Modifying Services via Registry**
@@ -18,6 +20,3 @@ In this project, you will find several methods that allow users to escalate priv
 - It is in Dutch
 
 **Disclaimer:** This project is intended for **educational purposes only** and should be used for learning ethical hacking, penetration testing, and cybersecurity practices. The techniques and tools discussed are meant for use in **authorized environments** or with explicit permission. Unauthorized access to systems or networks is **illegal** and against GitHub's acceptable use policy.
-
-## English Version
-- `https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation/tree/main/english-version`
